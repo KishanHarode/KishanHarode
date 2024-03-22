@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kishan_harode" target="blank"><img src="https://img.shields.io/twitter/follow/kishan_harode?logo=twitter&style=for-the-badge" alt="kishan_harode" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Reactjs**
 
-- 💬 Ask me about **C & C++,HTML5,CSS3, SQL, Php & Codeigniter**
+- 💬 Ask me about **C & C++,HTML5,CSS3, Bootstrap, Javascript, ReactJs**
 
 - 📫 How to reach me **kishanharode0@gmail.com**
 
